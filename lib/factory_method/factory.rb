@@ -1,4 +1,4 @@
-module Factory
+module FrameWork
   class Factory
     def create(owner)
       product = create_product(owner)
